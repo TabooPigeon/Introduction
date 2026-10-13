@@ -1,0 +1,10 @@
+.tagline{
+     font-style: italic;
+     color: Black;
+background-color: beige;
+}
+p{
+    background-color: aquamarine;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
